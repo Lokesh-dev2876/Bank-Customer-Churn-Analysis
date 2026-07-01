@@ -34,6 +34,25 @@ Analyze customer churn behavior, identify high-risk customer segments, quantify 
 - Churn by Balance Group
 - Churn by Card Type
 
+## Skills Demonstrated
+
+- SQL
+- Power BI
+- DAX
+- Data Cleaning
+- Data Visualization
+- Business Analytics
+- Customer Segmentation
+- Churn Analysis
+
+## Project Highlights
+
+- Analyzed 10,000 bank customer records
+- Calculated customer churn rate and revenue loss
+- Built interactive Power BI dashboards
+- Created SQL queries for customer segmentation
+- Identified high-risk customer groups for retention strategies
+
 ## Key Findings
 - Customers aged 50+ have the highest churn rate.
 - Inactive members churn significantly more than active members.
